@@ -1,0 +1,26 @@
+{
+  "name": "soofa",
+  "version": "0.1.0",
+  "description": "Soofa Pay npm package",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soofapay/node-soofa.git"
+  },
+  "keywords": [
+    "soofa pay",
+    "soofa npm",
+    "soofa nodejs",
+    "soofa nodejs integration"
+  ],
+  "author": "LaDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soofapay/node-soofa/issues"
+  },
+  "homepage": "https://github.com/soofapay/node-soofa",
+  "devDependencies": {},
+  "dependencies": {},
+  "bundlesize": []
+}
