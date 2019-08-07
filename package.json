@@ -1,7 +1,7 @@
 {
   "name": "soofa",
   "version": "0.1.3",
-  "description": "Soofa Pay npm package",
+  "description": "Soofa Pay NodeJs package",
   "main": "index.js",
   "scripts": {},
   "repository": {
