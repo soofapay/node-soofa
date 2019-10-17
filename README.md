@@ -53,7 +53,7 @@ object as shown below.
     "net_amount": 4.8605,
     "transacted_via": "mpesa",
     "is_money_in": true,
-    "sender": "+254701234567",
+    "sender": "+25470123456",
     "receiver": "Dev Market"
 }
 ```
